@@ -1,1 +1,3 @@
 Name: Kowit Meboon
+Weight (kg.): 60.5
+Height (cm.): 175
